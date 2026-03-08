@@ -1,0 +1,22 @@
+[
+  { "id": 1, "title": "Learn HTML Basics", "completed": true },
+  { "id": 2, "title": "Practice CSS Flexbox", "completed": true },
+  { "id": 3, "title": "Study JavaScript Fundamentals", "completed": false },
+  { "id": 4, "title": "Build a Simple Landing Page", "completed": true },
+  { "id": 5, "title": "Learn ES6 Features", "completed": false },
+  { "id": 6, "title": "Practice JavaScript Array Methods", "completed": false },
+  { "id": 7, "title": "Build a To-Do App with JavaScript", "completed": true },
+  { "id": 8, "title": "Learn React Basics", "completed": false },
+  { "id": 9, "title": "Create Components in React", "completed": false },
+  { "id": 10, "title": "Understand React Hooks", "completed": false },
+  { "id": 11, "title": "Practice useState Hook", "completed": true },
+  { "id": 12, "title": "Learn Redux Fundamentals", "completed": false },
+  { "id": 13, "title": "Build a Redux Counter App", "completed": true },
+  { "id": 14, "title": "Connect Redux with React", "completed": false },
+  { "id": 15, "title": "Style App with Tailwind CSS", "completed": true },
+  { "id": 16, "title": "Design UI in Figma", "completed": true },
+  { "id": 17, "title": "Create a UI Case Study", "completed": false },
+  { "id": 18, "title": "Deploy Project on GitHub", "completed": false },
+  { "id": 19, "title": "Practice API Fetch in React", "completed": false },
+  { "id": 20, "title": "Build Full Stack Task Manager", "completed": false }
+]
